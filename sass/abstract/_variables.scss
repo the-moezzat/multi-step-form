@@ -1,0 +1,73 @@
+// - Font sizes (px)
+$fs-10: 10;
+$fs-12: 12;
+$fs-14: 14;
+$fs-default: 16;
+$fs-18: 18;
+$fs-20: 20;
+$fs-24: 24;
+$fs-30: 30;
+$fs-36: 36;
+$fs-44: 44;
+$fs-52: 52;
+$fs-62: 62;
+$fs-74: 74;
+$fs-86: 86;
+$fs-98: 98;
+
+// - Font weights
+$fw-default: 400;
+$fw-medium: 500;
+$fw-bold: 700;
+
+// - Line heights
+$lh-default: 1;
+$lh-small: 1.05;
+$lh-medium: 1.2;
+$lh-paragraph-default: 1.6;
+$lh-large: 1.8;
+
+// - Letter spacing
+$ls-reduce: -0.5px;
+$ls-mag: 0.75px;
+
+// - COLORS
+
+// -- PRIMARY
+$Marine-blue: hsl(213, 96%, 18%);
+$Purplish-blue: hsl(243, 100%, 62%);
+$Pastel-blue: hsl(228, 100%, 84%);
+$Light-blue: hsl(206, 94%, 87%);
+$Strawberry-red: hsl(354, 84%, 57%);
+
+// --GRAY
+$Cool-gray: hsl(231, 11%, 63%);
+$Light-gray: hsl(229, 24%, 87%);
+$Magnolia: hsl(217, 100%, 97%);
+$Alabaster: hsl(231, 100%, 99%);
+$White: hsl(0, 0%, 100%);
+
+// - 05 SHADOWS
+
+$shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);
+
+// - 06 BORDER-RADIUS
+
+$br-default: 9px;
+$br-medium: 11px;
+
+// - 07 WHITESPACE
+
+// - Spacing system (px)
+$s-2: 2;
+$s-4: 4;
+$s-8: 8;
+$s-12: 12;
+$s-16: 16;
+$s-24: 24;
+$s-32: 32;
+$s-48: 48;
+$s-64: 64;
+$s-80: 80;
+$s-96: 96;
+$s-128: 128;

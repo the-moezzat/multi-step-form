@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap");
 *,
 *::before,
 *::after {
@@ -12,13 +13,11 @@ html {
 
 body {
   font-family: "Ubuntu", sans-serif;
-  font-weight: $fw-default;
-  background-color: $Magnolia;
-
+  font-weight: 400;
+  background-color: hsl(217deg, 100%, 97%);
   max-width: 144rem;
   height: 100vh;
   margin: 0 auto;
-
   display: grid;
   align-content: center;
   justify-content: center;
@@ -27,3 +26,5 @@ body {
 .container {
   max-width: 110rem;
 }
+
+/*# sourceMappingURL=style.css.map */
